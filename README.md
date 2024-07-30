@@ -40,4 +40,8 @@ tsc filename.ts
 let variablename: type = value;
 ```
 
-last:1:42:00
+## Intialising TypeScript
+
+```sh
+tsc --init
+```
